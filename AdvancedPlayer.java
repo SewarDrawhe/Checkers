@@ -15,7 +15,8 @@ public AdvancedPlayer(char colour)
 }
         
     //Input methods for the advanced Player.    
-    // hgjghjhg
+   
+\\sewar
     
     
 }
